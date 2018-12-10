@@ -6,3 +6,4 @@
 # commit -- GT-1 #time 4h 30m Total work logged 4 hours 30 minutes
 # commit -- #time 4h 30m Total work logged 4 hours 30 minutes
 # commit -- GT-1 #time 4h 30m Total work logged 1 hours 30 minutes
+# commit -- [GT-1] #time 4h 30m Total work logged 6 hours 30 minutes
